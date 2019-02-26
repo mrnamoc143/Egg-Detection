@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Male xml</folder>
+	<filename>male323.jpg</filename>
+	<path>D:\Egg Data\Male xml\male323.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>574</ymin>
+			<xmax>1057</xmax>
+			<ymax>1430</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Female xml</folder>
+	<filename>female626.jpg</filename>
+	<path>D:\Egg Data\Female xml\female626.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>662</ymin>
+			<xmax>1081</xmax>
+			<ymax>1438</ymax>
+		</bndbox>
+	</object>
+</annotation>
